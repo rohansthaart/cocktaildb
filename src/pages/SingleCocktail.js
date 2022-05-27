@@ -105,5 +105,6 @@ export default function SingleCocktail() {
         </div>
       </section>
     )
+    
   }
 }
